@@ -6,4 +6,6 @@ Console.WriteLine("Hello, World!");
 
 MathFun.PrintNumbers(new List<int> { 1, 2, 3, 4 });
 
+Console.WriteLine(MathFun.IsEven(3).ToString());
+
 
